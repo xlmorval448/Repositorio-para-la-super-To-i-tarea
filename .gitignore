@@ -1,4 +1,5 @@
-*.bak
-*.txt
+# Reglas de ejemplo de GitHub para Python
+__pycache__/
+*.py[cod]
 
 #Alba Vazquez Guillen
